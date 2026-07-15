@@ -13,7 +13,9 @@ Record any voice or video call on your Mac — Discord, LINE, Zoom, Google Meet,
 - **Works with any call app** — Captures system audio at the OS level, so it works with every app. No plugins, no per-app setup
 - **Two transcription engines** — Apple Speech Recognition for real-time + Whisper AI for high-accuracy post-recording
 - **Live translation** — Foreign-language speech translated on the fly, entirely on-device
-- **Speaker diarization** — Automatically identifies who said what
+- **Calendar integration** — Detects video meetings (Zoom, Meet, Teams, etc.) on your calendar and sends a notification before they start, offering to begin recording. You can choose which calendars to monitor
+- **Auto-stop on silence** — Automatically stops recording after a period of silence, so you never forget to stop after a meeting ends
+- **Menu bar support** — Start and stop recording from the menu bar. Elapsed time is displayed while recording
 - **Privacy first** — Audio, transcripts, and translations never leave your Mac. Zero server uploads
 
 ## Install
